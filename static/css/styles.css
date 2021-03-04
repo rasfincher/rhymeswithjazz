@@ -164,10 +164,17 @@ div.footer a {
   aspect-ratio: 4/3;
   filter: grayscale(95%);
 }
-
 .card img ~ * {
   margin-left: 1rem;
   margin-right: 1rem;
+}
+.card h3 {
+  margin: 0 0 0 2rem;
+  font-size: 1.25rem;
+  text-align: left;
+}
+.card ul {
+  margin: 0 0 0 2rem;
 }
 
 /* margins and stuff */
